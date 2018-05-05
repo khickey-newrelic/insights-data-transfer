@@ -1,0 +1,12 @@
+{
+	"name": "insights-data-transfer",
+	"version": "1.0.0",
+	"description": "reports on legacy alerts for master and sub-accounts",
+	"main": "insights-data-transfer.js",
+	"dependencies": {
+		"fs": "0.0.1-security",
+		"request": "^2.83.0",
+		"winston": "2.4.0",
+		"urllib-sync": "^1.1.4"
+	}
+}
